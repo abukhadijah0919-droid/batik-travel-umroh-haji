@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abukhadijah0919-droid.github.io/batik-travel-umroh-haji/sitemap.xml
