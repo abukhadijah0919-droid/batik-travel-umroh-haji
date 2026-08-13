@@ -1,0 +1,5 @@
+Contact: https://wa.me/6282324082323
+Preferred-Languages: id, en
+Canonical: https://abukhadijah0919-droid.github.io/batik-travel-umroh-haji/.well-known/security.txt
+Expires: 2027-08-13T00:00:00Z
+Policy: https://github.com/abukhadijah0919-droid/batik-travel-umroh-haji/security
